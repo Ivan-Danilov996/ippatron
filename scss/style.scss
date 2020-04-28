@@ -28,7 +28,6 @@
   list-style: none;
 }
 
-
 .go-top {
   position: fixed;
   z-index: 50;
@@ -210,7 +209,6 @@ body {
   }
 }
 .contact {
-
   a {
     font-family: "Open Sans";
     font-size: 25px;
@@ -339,7 +337,7 @@ body {
     font-size: 18px;
     text-transform: uppercase;
 
-    color: #FFFFFF;
+    color: #ffffff;
   }
 }
 
@@ -445,7 +443,6 @@ body {
   }
 
   &__content {
-    
     display: flex;
     position: relative;
     margin-top: 60px;
@@ -675,7 +672,7 @@ body {
 }
 
 .checkbox:checked ~ .checkbox-text::before {
-  background-image: url("/images/checkbox.png");
+  background-image: url("../images/checkbox.png");
 }
 
 .radio,
@@ -693,7 +690,7 @@ body {
     color: #ffffff;
     text-transform: uppercase;
 
-    background: #30A16D;
+    background: #30a16d;
     border-radius: 35px;
 
     font-family: Open Sans;
@@ -761,9 +758,8 @@ body {
     font-size: 18px;
     text-transform: uppercase;
 
-    color: #FFFFFF;
+    color: #ffffff;
   }
-
 }
 
 //footer
@@ -943,5 +939,3 @@ body {
   background-image: url("../images/facebook.png");
   background-repeat: no-repeat;
 }
-
-

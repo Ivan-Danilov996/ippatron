@@ -339,7 +339,7 @@ body {
   font-weight: 900;
   font-size: 18px;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .advantages-block__title {
@@ -670,7 +670,7 @@ body {
 }
 
 .checkbox:checked ~ .checkbox-text::before {
-  background-image: url("/images/checkbox.png");
+  background-image: url("../images/checkbox.png");
 }
 
 .radio,
@@ -686,7 +686,7 @@ body {
   border: none;
   color: #ffffff;
   text-transform: uppercase;
-  background: #30A16D;
+  background: #30a16d;
   border-radius: 35px;
   font-family: Open Sans;
   font-style: normal;
@@ -749,7 +749,7 @@ body {
   font-weight: 900;
   font-size: 18px;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .footer {
